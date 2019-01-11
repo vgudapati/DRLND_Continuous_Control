@@ -10,6 +10,8 @@
 
 This project uses Deep Deterministic Policy Gradient (DDPG) to train a robotic arm to track a moving target using the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
+An instance of the solved agent looks as below:
+
 ![Trained Agent][image1]
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
