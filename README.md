@@ -44,8 +44,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Setup
 
-1. Setup the dependencies as described [here](https://github.com/udacity/deep-reinforcement-learning/blob/master/README.md).
-2. Download the environment from one of the links below.  You need only select the environment that matches your operating system: (The below is for the version 2 of the project with 20 agents)
+1. Clone the repository from https://github.com/vgudapati/DRLND_Continuous_Control.git
+2. Setup the dependencies as described [here](https://github.com/udacity/deep-reinforcement-learning/blob/master/README.md).
+3. Download the environment from one of the links below.  You need only select the environment that matches your operating system: (The below is for the version 2 of the project with 20 agents)
 
     - **_Version 2: Twenty (20) Agents_**
         - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
@@ -53,7 +54,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
         - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
         - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
     
-3. Place the file in the DRLND GitHub repository, in the `DRLND_Continuous_Control/` folder, and unzip (or decompress) the file. 
+4. Place the file in the DRLND GitHub repository, in the `DRLND_Continuous_Control/` folder, and unzip (or decompress) the file. 
 
 ## Instructions
 
