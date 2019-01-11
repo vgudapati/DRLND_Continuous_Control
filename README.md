@@ -55,7 +55,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
     
 3. Place the file in the DRLND GitHub repository, in the `DRLND_Continuous_Control/` folder, and unzip (or decompress) the file. 
 
-### Instructions
+## Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
 
