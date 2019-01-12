@@ -60,3 +60,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
 
+## Future work - improving agent's performance.
+
+The current work can be extended in several ways to improve the performance of the agent:
+
+1. Based on openai publication (https://blog.openai.com/better-exploration-with-parameter-noise/) performance of agents can be increased by adding noise to policy parameters.
+2. Using optimization algorithms such as PPO and TRPO can also increase performance.
+3. Traditional neural network hyper parameter tuning can also Increase the performance of the agents. I have attempted a few lille batch size and buffer size, learning rate during my work.
